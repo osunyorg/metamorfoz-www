@@ -183,6 +183,10 @@ from = "/inspirations/expertises/bien-etre-personnel/index.html"
 to = "/actualites/expertises/bien-etre-personnel/"
 
 [[redirects]]
+from = "/references/2026-fiche-projets-references-1/index.html"
+to = "/references/2026-table-ronde-ladaptation-integrale-1/"
+
+[[redirects]]
 from = "/vos-besoins-nos-solutions/index.html"
 to = "/solutions/"
 
