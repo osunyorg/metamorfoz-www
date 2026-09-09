@@ -531,10 +531,6 @@ from = "/solutions/animer/evenements-professionnels/index.html"
 to = "/solutions/animer/rencontres-professionnelles/"
 
 [[redirects]]
-from = "/projets/2025-animation-de-la-5e-conference-de-leau-des-pays-de-la-loire/index.html"
-to = "/references/2025-animation-de-la-5e-conference-de-leau-des-pays-de-la-loire/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseil-en-prospective-et-strategie/index.html"
 to = "/metiers/facilitation-individuelle-1/conseil-en-strategie-et-prospective/"
 
