@@ -179,6 +179,10 @@ from = "/nos-metiers/transformation-des-organisations/mise-en-relation/index.htm
 to = "/metiers/facilitation-collective/mise-en-relation/"
 
 [[redirects]]
+from = "/references/solutions/innover/index.html"
+to = "/references/solutions/se-developper/"
+
+[[redirects]]
 from = "/inspirations/expertises/bien-etre-personnel/index.html"
 to = "/actualites/expertises/bien-etre-personnel/"
 
