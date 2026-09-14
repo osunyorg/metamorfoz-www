@@ -283,6 +283,10 @@ from = "/nos-metiers/accompagnement-individuel/index.html"
 to = "/metiers/facilitation-individuelle-1/mentorat/"
 
 [[redirects]]
+from = "/references/solutions/creer-un-moment-fort/index.html"
+to = "/references/solutions/animer/"
+
+[[redirects]]
 from = "/inspirations/solutions-prestations/sensibiliser-les-equipes/index.html"
 to = "/actualites/solutions/sensibiliser-les-equipes/"
 
@@ -325,6 +329,10 @@ to = "/solutions/animer/rencontres-professionnelles/"
 [[redirects]]
 from = "/solutions/s-aligner/mentorat-saligner-avec-fluidite/index.html"
 to = "/solutions/s-aligner/mentorat-1/"
+
+[[redirects]]
+from = "/references/solutions/approfondir-un-sujet/index.html"
+to = "/references/solutions/approfondir/"
 
 [[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/index.html"
