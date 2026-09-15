@@ -503,6 +503,10 @@ from = "/inspirations/solutions-prestations/partage/index.html"
 to = "/actualites/solutions/approfondir-un-sujet/"
 
 [[redirects]]
+from = "/references/solutions/sensibiliser-les-equipes/index.html"
+to = "/references/solutions/sensibiliser/"
+
+[[redirects]]
 from = "/inspirations/solutions/partage/index.html"
 to = "/actualites/solutions/approfondir-un-sujet/"
 
