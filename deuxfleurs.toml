@@ -47,6 +47,10 @@ from = "/inspirations/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvel
 to = "/actualites/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvelle-charte-graphique/"
 
 [[redirects]]
+from = "/references/solutions/mettre-en-dynamique/index.html"
+to = "/references/solutions/engager/"
+
+[[redirects]]
 from = "/inspirations/a-propos/notre-raison-d-etre/index.html"
 to = "/actualites/a-propos/notre-raison-d-etre/"
 
