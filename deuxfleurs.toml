@@ -380,7 +380,7 @@ to = "/metiers/facilitation-de-projets/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/references/2024-fiche-projets-references-2/index.html"
-to = "/references/2024-atelier-accompagnement-au-changement-pour-artelia/"
+to = "/references/2025-atelier-accompagnement-au-changement-pour-artelia/"
 
 [[redirects]]
 from = "/inspirations/solutions/sensibiliser-les-equipes/index.html"
@@ -389,6 +389,10 @@ to = "/actualites/solutions/sensibiliser-les-equipes/"
 [[redirects]]
 from = "/inspirations/solutions-prestations/moment-fort/index.html"
 to = "/actualites/solutions/moment-fort/"
+
+[[redirects]]
+from = "/references/2024-atelier-accompagnement-au-changement-pour-artelia/index.html"
+to = "/references/2025-atelier-accompagnement-au-changement-pour-artelia/"
 
 [[redirects]]
 from = "/inspirations/metiers/index.html"
