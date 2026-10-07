@@ -835,6 +835,10 @@ from = "/inspirations/expertises/index.html"
 to = "/actualites/expertises/"
 
 [[redirects]]
+from = "/references/2024-fiche-projets-references-1/index.html"
+to = "/references/2025-fiche-projets-references-1/"
+
+[[redirects]]
 from = "/inspirations/metiers/amo-programmiste/index.html"
 to = "/actualites/metiers/amo-programmiste/"
 
