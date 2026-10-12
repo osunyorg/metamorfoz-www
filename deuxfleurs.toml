@@ -95,6 +95,10 @@ from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/index.
 to = "/solutions/sensibiliser/"
 
 [[redirects]]
+from = "/references/2024-fiche-projets-references-2/index.html"
+to = "/references/2026-lexperientiel-des-evenements-professionnels/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-devenements-professionnels/index.html"
 to = "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/"
 
@@ -205,6 +209,10 @@ to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construc
 [[redirects]]
 from = "/inspirations/metiers/facilitateur-d-ateliers-d-intelligence-collective/index.html"
 to = "/actualites/metiers/facilitateur-d-ateliers-d-intelligence-collective/"
+
+[[redirects]]
+from = "/references/2024-lexperientiel-des-evenements-professionnels/index.html"
+to = "/references/2026-lexperientiel-des-evenements-professionnels/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/collectivites/index.html"
