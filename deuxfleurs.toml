@@ -367,6 +367,10 @@ from = "/inspirations/metiers/faiseur-de-liens/index.html"
 to = "/actualites/metiers/faiseur-de-liens/"
 
 [[redirects]]
+from = "/actualites/2026-10-12-et-si-un-evenement-ne-sarretait-pas-au-moment-ou-il-se-termine/index.html"
+to = "/actualites/2026-10-12-ce-quun-evenement-professionnel-laisse-derriere-lui/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
 to = "/metiers/facilitation-individuelle-1/conseil-en-strategie-et-prospective/"
 
