@@ -183,6 +183,10 @@ from = "/inspirations/a-propos/notre-intervenant-principal/index.html"
 to = "/actualites/a-propos/notre-intervenant-principal/"
 
 [[redirects]]
+from = "/a-propos/intervenant-principal/index.html"
+to = "/a-propos/pierre-yves-legrand/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mise-en-relation/index.html"
 to = "/metiers/facilitation-collective/mise-en-relation/"
 
@@ -556,7 +560,7 @@ to = "/actualites/solutions/"
 
 [[redirects]]
 from = "/a-propos/pierre-yves-legrand-2/index.html"
-to = "/a-propos/intervenant-principal/"
+to = "/a-propos/pierre-yves-legrand/"
 
 [[redirects]]
 from = "/solutions/exprimer-et-formaliser-un-besoin-damenagement/ateliers-expression-du-besoin/index.html"
@@ -576,7 +580,7 @@ to = "/solutions/approfondir/"
 
 [[redirects]]
 from = "/qui-sommes-nous/pierre-yves-legrand-2/index.html"
-to = "/a-propos/intervenant-principal/"
+to = "/a-propos/pierre-yves-legrand/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/redacteur-journaliste/index.html"
