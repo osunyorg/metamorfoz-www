@@ -308,7 +308,7 @@ to = "/references/solutions/animer/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/sensibiliser-les-equipes/index.html"
-to = "/actualites/solutions/sensibiliser-les-equipes/"
+to = "/actualites/solutions/sensibiliser/"
 
 [[redirects]]
 from = "/inspirations/2026-04-28-metamorfoz-reference-parmi-les-offreurs-de-solutions-rse-par-nantes-metropole/index.html"
@@ -396,11 +396,11 @@ to = "/metiers/facilitation-de-projets/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/inspirations/solutions/sensibiliser-les-equipes/index.html"
-to = "/actualites/solutions/sensibiliser-les-equipes/"
+to = "/actualites/solutions/sensibiliser/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/moment-fort/index.html"
-to = "/actualites/solutions/moment-fort/"
+to = "/actualites/solutions/animer/"
 
 [[redirects]]
 from = "/references/2024-atelier-accompagnement-au-changement-pour-artelia/index.html"
@@ -492,7 +492,7 @@ to = "/a-propos/"
 
 [[redirects]]
 from = "/inspirations/solutions/moment-fort/index.html"
-to = "/actualites/solutions/moment-fort/"
+to = "/actualites/solutions/animer/"
 
 [[redirects]]
 from = "/nos-metiers/accompagnement-individuel-1/mentorat/index.html"
@@ -511,8 +511,16 @@ from = "/metiers/facilitation-collective/conseiller-editorial/index.html"
 to = "/metiers/facilitation-individuelle-1/conseil-editorial/"
 
 [[redirects]]
+from = "/actualites/solutions/sensibiliser-les-equipes/index.html"
+to = "/actualites/solutions/sensibiliser/"
+
+[[redirects]]
 from = "/inspirations/solutions-prestations/partage/index.html"
 to = "/actualites/solutions/approfondir-un-sujet/"
+
+[[redirects]]
+from = "/actualites/solutions/moment-fort/index.html"
+to = "/actualites/solutions/animer/"
 
 [[redirects]]
 from = "/references/solutions/sensibiliser-les-equipes/index.html"
