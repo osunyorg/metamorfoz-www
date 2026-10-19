@@ -412,7 +412,7 @@ to = "/actualites/metiers/"
 
 [[redirects]]
 from = "/inspirations/solutions/exprimer-et-formaliser-un-besoin/index.html"
-to = "/actualites/solutions/exprimer-et-formaliser-un-besoin/"
+to = "/actualites/solutions/sexprimer/"
 
 [[redirects]]
 from = "/inspirations/archives-expositions/index.html"
@@ -420,7 +420,7 @@ to = "/expositions/archives-expositions/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/exprimer-et-formaliser-un-besoin/index.html"
-to = "/actualites/solutions/exprimer-et-formaliser-un-besoin/"
+to = "/actualites/solutions/sexprimer/"
 
 [[redirects]]
 from = "/inspirations/expertises/dynamique-de-projets-dans-les-territoires/index.html"
@@ -429,6 +429,10 @@ to = "/actualites/expertises/dynamique-de-projets-dans-les-territoires/"
 [[redirects]]
 from = "/inspirations/metiers/animateur-de-reseaux-et-de-communautes/index.html"
 to = "/actualites/metiers/animateur-de-reseaux-et-de-communautes/"
+
+[[redirects]]
+from = "/actualites/solutions/exprimer-et-formaliser-un-besoin/index.html"
+to = "/actualites/solutions/sexprimer/"
 
 [[redirects]]
 from = "/solutions/exprimer-et-formaliser-un-besoin-damenagement/index.html"
