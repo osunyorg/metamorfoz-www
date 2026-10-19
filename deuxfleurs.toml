@@ -212,7 +212,7 @@ to = "/solutions/"
 
 [[redirects]]
 from = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/index.html"
-to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+to = "/metiers/facilitation-de-projets/facilitateur-de-projets-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/inspirations/metiers/facilitateur-d-ateliers-d-intelligence-collective/index.html"
@@ -281,6 +281,10 @@ to = "/metiers/facilitation-de-projets/accompagnement-a-la-structuration-de-fili
 [[redirects]]
 from = "/inspirations/metiers/animateur-de-rencontres-professionnelles/index.html"
 to = "/actualites/metiers/animateur-de-rencontres-professionnelles/"
+
+[[redirects]]
+from = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/index.html"
+to = "/metiers/facilitation-de-projets/facilitateur-de-projets-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/seminaire/index.html"
@@ -368,7 +372,7 @@ to = "/actualites/metiers/mediateur-de-connaissances/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/amo-programmiste/index.html"
-to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+to = "/metiers/facilitation-de-projets/facilitateur-de-projets-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/index.html"
@@ -560,7 +564,7 @@ to = "/actualites/secteurs/energies/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
-to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+to = "/metiers/facilitation-de-projets/facilitateur-de-projets-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/qui-sommes-nous-1/quen-pensez-vous-1/index.html"
