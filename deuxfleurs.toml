@@ -32,7 +32,7 @@ to = "/a-propos/communaute/"
 
 [[redirects]]
 from = "/inspirations/solutions/mettre-en-dynamique/index.html"
-to = "/actualites/solutions/mettre-en-dynamique/"
+to = "/actualites/solutions/engager/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseiller-editorial/index.html"
@@ -56,7 +56,7 @@ to = "/actualites/a-propos/notre-raison-d-etre/"
 
 [[redirects]]
 from = "/inspirations/solutions/prendre-du-recul/index.html"
-to = "/actualites/solutions/prendre-du-recul/"
+to = "/actualites/solutions/saligner/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/charge-de-relations-publiques/index.html"
@@ -148,7 +148,7 @@ to = "/actualites/solutions/developper/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/approfondir-un-sujet/index.html"
-to = "/actualites/solutions/prendre-du-recul/"
+to = "/actualites/solutions/saligner/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/nos-missions/index.html"
@@ -229,6 +229,10 @@ to = "/actualites/secteurs/collectivites/"
 [[redirects]]
 from = "/rencontre/index.html"
 to = "/evenements/"
+
+[[redirects]]
+from = "/actualites/solutions/mettre-en-dynamique/index.html"
+to = "/actualites/solutions/engager/"
 
 [[redirects]]
 from = "/inspirations/metiers/charge-de-relations-publiques/index.html"
@@ -819,6 +823,10 @@ from = "/qui-sommes-nous/notre-raison-detre/index.html"
 to = "/a-propos/raison-d-etre/"
 
 [[redirects]]
+from = "/actualites/solutions/prendre-du-recul/index.html"
+to = "/actualites/solutions/saligner/"
+
+[[redirects]]
 from = "/inspirations/vulgarisateur/index.html"
 to = "/actualites/metiers/vulgarisateur/"
 
@@ -869,6 +877,10 @@ to = "/metiers/facilitation-de-projets/mediateur-de-connaissance/"
 [[redirects]]
 from = "/inspirations/expertises/index.html"
 to = "/actualites/expertises/"
+
+[[redirects]]
+from = "/references/solutions/exprimer-et-formaliser-un-besoin/index.html"
+to = "/references/solutions/sexprimer/"
 
 [[redirects]]
 from = "/references/2024-fiche-projets-references-1/index.html"
