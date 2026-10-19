@@ -191,6 +191,10 @@ from = "/nos-metiers/transformation-des-organisations/mise-en-relation/index.htm
 to = "/metiers/facilitation-collective/mise-en-relation/"
 
 [[redirects]]
+from = "/organisations/categories/consruction/index.html"
+to = "/organisations/categories/construction/"
+
+[[redirects]]
 from = "/references/solutions/innover/index.html"
 to = "/references/solutions/se-developper/"
 
@@ -597,6 +601,10 @@ to = "/a-propos/pierre-yves-legrand/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/redacteur-journaliste/index.html"
 to = "/metiers/facilitation-de-projets/redacteur-journaliste/"
+
+[[redirects]]
+from = "/organisations/categories/batiment/index.html"
+to = "/organisations/categories/construction/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/energies/index.html"
