@@ -791,6 +791,10 @@ from = "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement
 to = "/solutions/engager/"
 
 [[redirects]]
+from = "/actualites/2025-11-12-metamorfoz-habilite-ateliers-adaptation-climat/index.html"
+to = "/actualites/2025-11-12-metamorfoz-ateliers-adacc-adaptation-climat/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/index.html"
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
 
