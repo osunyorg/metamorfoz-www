@@ -563,6 +563,10 @@ from = "/inspirations/secteurs/rse/index.html"
 to = "/actualites/secteurs/rse/"
 
 [[redirects]]
+from = "/actualites/2026-11-09-le-mans-capitale-du-son-metamorfoz-au-rendez-vous-des-assises-nationales-du-bruit/index.html"
+to = "/actualites/2026-11-09-assises-nationales-du-bruit/"
+
+[[redirects]]
 from = "/inspirations/secteurs/energies/index.html"
 to = "/actualites/secteurs/energies/"
 
