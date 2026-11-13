@@ -659,6 +659,10 @@ from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
 
 [[redirects]]
+from = "/references/2026-mentorat-de-personnes-engagees/index.html"
+to = "/references/2026-etude-de-cas-mentorat-engages/"
+
+[[redirects]]
 from = "/vos-besoins-nos-solutions/vous-cherchez-un-partage-dexperiences-et-un-espace-dechange-sur-vos-engagements/index.html"
 to = "/solutions/s-aligner/"
 
